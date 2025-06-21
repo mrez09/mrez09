@@ -3,7 +3,7 @@
 
 ## Hi there! I am Muhammad Rizki Eka Saputra 👋
 
-Happy Daily Code Learning Every Day.
+Happy daily coding, happy daily growth.
 
 <!--
 **mrez09/mrez09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,16 +26,16 @@ Here are some ideas to get you started:
 
 ##### 🌐 Connect With Me
 
-![https://instagram.com/a.mrez](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://www.linkedin.com/in/muhammad-rizki-eka-saputra-941b17130/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+<img href="https://instagram.com/a.mrez" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+<img href="https://mrizkiekas.web.id" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
 
 ##### 📊 GitHub Stats:
 
-![Mr_eZ GitHub stats](https://github-readme-stats.vercel.app/api?username=mrez09&show_icons=true&theme=tokyonight) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mrez09&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Mr_eZ GitHub stats](https://github-readme-stats.vercel.app/api?username=mrez09&show_icons=true&theme=tokyonight&include_all_commits=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrez09&theme=tokyonight&include_all_commits=true&count_private=true&layout=compact)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=mrez09)
+[![GitHub Streak](https://streak-stats.demolab.com?user=mrez09&theme=tokyonight)](https://git.io/streak-stats)
 
 #### Play with us
-
 
 ###
 
@@ -44,9 +44,3 @@ Here are some ideas to get you started:
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mrez09/mrez09/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mrez09/mrez09/output/pacman-contribution-graph.svg">
 </picture>
-
-###
-
-<img src="https://raw.githubusercontent.com/mrez09/mrez09/output/snake.svg" alt="Snake animation" />
-
-###
