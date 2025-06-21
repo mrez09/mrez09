@@ -1,4 +1,6 @@
-## Hi there 👋
+![MreZ](img/Banner-github.png)
+
+## Hi there! I am Muhammad Rizki Eka Saputra 👋
 
 <!--
 **mrez09/mrez09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🔭 I’m currently working on **Asosiasi Pengajar Hukum Adat Indonesia**
+
+🌱 I’m currently learning [**Laravel**](https://laravel.com), **React JS**
+😊😊😊
+![Happy Coding](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTJkcGFwaWJzdDE0dnZqbWZ1dDNoeGk3YXdydWQ2MmxxZDVwM3RoOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PewYsVJ8RmUNxdATiy/giphy.gif)
