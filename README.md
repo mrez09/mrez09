@@ -26,8 +26,7 @@ Here are some ideas to get you started:
 
 ##### 🌐 Connect With Me
 
-<img href="https://instagram.com/a.mrez" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-<img href="https://mrizkiekas.web.id" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/a.mrez) [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://mrizkiekas.web.id)
 
 ##### 📊 GitHub Stats:
 
