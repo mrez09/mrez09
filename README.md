@@ -34,12 +34,6 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=mrez09)](https://git.io/streak-stats)
 
-#### Al
-
-\
-![Mr_eZ GitHub stats](https://github-readme-stats.vercel.app/api?username=mrez09&theme=tokyonight&show_icons=true&include_all_commits=true)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=mrez09)](https://git.io/streak-stats)
-
 #### Code with us
 
 <picture>
