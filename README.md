@@ -30,9 +30,15 @@ Here are some ideas to get you started:
 
 ##### 📊 GitHub Stats:
 
-![Mr_eZ GitHub stats](https://github-readme-stats.vercel.app/api?username=mrez09&show_icons=true&theme=tokyonight&include_all_commits=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrez09&theme=tokyonight&include_all_commits=true&count_private=true&layout=compact)
+![Mr_eZ GitHub stats](https://github-readme-stats.vercel.app/api?username=mrez09&show_icons=true&include_all_commits=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrez09&theme=tokyonight&include_all_commits=true&count_private=true&layout=compact)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=mrez09)](https://git.io/streak-stats)
+
+#### Al
+
+\
+![Mr_eZ GitHub stats](https://github-readme-stats.vercel.app/api?username=mrez09&theme=tokyonight&show_icons=true&include_all_commits=true)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=mrez09)](https://git.io/streak-stats)
 
 #### Code with us
 
