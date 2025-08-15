@@ -3,7 +3,7 @@
 
 ## Hi there! I am Muhammad Rizki Eka Saputra 👋
 
-Coding is more than just writing lines of code; it's about problem-solving, creativity, and crafting solutions.
+"Code is read much more often than it is written," according to Guido Van Rossum. 
 
 <!--
 **mrez09/mrez09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
