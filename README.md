@@ -3,7 +3,7 @@
 
 ## Hi there! I am Muhammad Rizki Eka Saputra 👋
 
-"Code is read much more often than it is written," according to Guido Van Rossum. 
+"Make it work, make it right, make it fast" - Kent Beck
 
 <!--
 **mrez09/mrez09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
