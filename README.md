@@ -3,7 +3,7 @@
 
 ## Hi there! I am Muhammad Rizki Eka Saputra 👋
 
-"Make it work, make it right, make it fast" - Kent Beck
+"Clean code always looks like it was written by someone who cares." – Robert C. Martin
 
 <!--
 **mrez09/mrez09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
